@@ -7,8 +7,6 @@
 
 ### <div align="center">Hi! I'm Scott Hale, a full-stack web developer!</div>
 
-<br/>  
-
 
 - 🔭 I’m currently working on [Corhort Retort](https://github.com/shale00/Cohort-Retort)
 
@@ -21,8 +19,6 @@
 <br/>
 
 ## My Skill Set
-
-<table><tr><td valign="top" width="100%">
 
 <div align="center">  
 <a href="https://reactjs.org/" target="_blank"><img style="margin: 7px" src="https://profilinator.rishav.dev/skills-assets/react-original-wordmark.svg" alt="React" height="50" /></a>  
@@ -65,8 +61,6 @@
 <div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shale00&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 45%" /></div>
 
 <br/>
-
-<br />
 
 ---
 
