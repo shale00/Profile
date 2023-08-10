@@ -7,6 +7,7 @@
 
 ### <div align="center">Hi! I'm Scott Hale, a full-stack web developer!</div>
 
+- 👀 Check out my [Portfolio](https://shale00.github.io/Scott-Hale-React-Portfolio/#Portfolio)! 
 
 - 🔭 I’m currently working on [Corhort Retort](https://github.com/shale00/Cohort-Retort)
 
