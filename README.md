@@ -14,7 +14,7 @@
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
-- ⚡ Fun fact: I compete in International 🌎 Barbershop Competitions 🎶
+- ⚡ Fun fact: I compete in International 🌎 Barbershop 💈 Competitions 🎶
 
 <br/>
 
