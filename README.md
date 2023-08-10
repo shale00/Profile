@@ -1,31 +1,27 @@
 <div align="center">
 <img src="ScottProfileHeader.png" align="center" style="width: 90%" />
-</div>  
-
-<br/>  
-  
-
-### <div align="center">Hi! I'm Scott Hale, a full-stack web developer!</div>  
-
-<br/>  
-  
-
-- 🔭 I’m currently working on [Corhort Retort](https://github.com/shale00/Cohort-Retort)  
-  
-
-- 🌱 I’m currently learning AWS and Python  
-  
-
-- ❓ Ask me about anything related to MERN stack and related technologies  
-  
-
-- ⚡ Fun fact: I compete in International 🌎 Barbershop 💈 Competitions 🎶  
-  
+</div>
 
 <br/>  
 
 
-## My Skill Set  
+### <div align="center">Hi! I'm Scott Hale, a full-stack web developer!</div>
+
+<br/>  
+
+
+- 🔭 I’m currently working on [Corhort Retort](https://github.com/shale00/Cohort-Retort)
+
+- 🌱 I’m currently learning AWS and Python
+
+- ❓ Ask me about anything related to MERN stack and related technologies
+
+- ⚡ Fun fact: I compete in International 🌎 Barbershop Competitions 🎶
+
+<br/>
+
+## My Skill Set
+
 <table><tr><td valign="top" width="100%">
 
 <div align="center">  
@@ -43,11 +39,10 @@
 <a href="https://about.gitlab.com/" target="_blank"><img style="margin: 7px" src="https://profilinator.rishav.dev/skills-assets/gitlab.svg" alt="GitLab" height="50" /></a>  
 </div>
 
+<br/>
 
-<br/>  
+## Connect with me
 
-
-## Connect with me  
 <div align="center">
 <a href="https://github.com/shale00" target="_blank">
 <img src=https://img.shields.io/badge/github-%2324292e.svg?&style=for-the-badge&logo=github&logoColor=white alt=github style="margin-bottom: 5px;" />
@@ -56,17 +51,23 @@
 <img src=https://img.shields.io/badge/linkedin-%231E77B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white alt=linkedin style="margin-bottom: 5px;" />
 </a>  
 </div>  
-  
-
-<br/>  
 
 
-## Github Stats  
-<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shale00&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 65%" /></div>  
+<br/>
 
-<br/>  
+## Github Stats
+
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=shale00&hide_border=true&layout=compact" align="center" /></div>
+
+<br/>
+
+<div align="center"><img src="https://github-readme-stats.vercel.app/api?username=shale00&show_icons=true&count_private=true&hide_border=true" align="center" style="width: 45%" /></div>
+
+<br/>
 
 <br />
 
-----
+---
+
 <div align="center">Generated using <a href="https://profilinator.rishav.dev/" target="_blank">Github Profilinator</a></div>
