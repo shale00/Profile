@@ -9,9 +9,9 @@
 
 - 👀 Check out my [Portfolio](https://shale00.github.io/Scott-Hale-React-Portfolio/#Portfolio)! 
 
-- 🔭 I’m currently working on [Corhort Retort](https://github.com/shale00/Cohort-Retort)
+- 🔭 I’m currently working on [My Next App](https://github.com/shale00/next-app)
 
-- 🌱 I’m currently learning AWS and Python
+- 🌱 I’m currently learning Next.js
 
 - ❓ Ask me about anything related to MERN stack and related technologies
 
