@@ -9,7 +9,7 @@
 
 - 👀 Check out my [Portfolio](https://shale00.github.io/Scott-Hale-React-Portfolio/#Portfolio)! 
 
-- 🔭 I’m currently working on [My Next App](https://github.com/shale00/next-app)
+- 🔭 I’m currently working on [Next.js Issue Tracker](https://github.com/shale00/Next-Issue-Tracker)
 
 - 🌱 I’m currently learning Next.js
 
